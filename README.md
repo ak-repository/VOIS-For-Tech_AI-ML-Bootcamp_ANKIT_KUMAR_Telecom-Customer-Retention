@@ -15,7 +15,6 @@
 
 📚 Dataset Overview
   The dataset contains information about telecom customers, including:
-
   -> Customer demographics
   -> Services subscribed
   -> Contract type
@@ -42,27 +41,20 @@
   
 
  🧩 Future Enhancements
-
    -> Add machine learning models (Logistic Regression, Random Forest, XGBoost)
    -> Add feature importance & SHAP analysis
    -> Deploy churn prediction using Streamlit
    
 
  🤝 Contributing
-
   -> Contributions are welcome.
   ->  Please open an issue before making major changes.
   
 
 📜 License
+   -> This project is open-source and available for use.
 
+  AUTHOR 
+   -> ANKIT KUMAR
 
-  -> This project is open-source and available for use.
-
-
-If you want, I can also generate:
-✔ A shorter version
-✔ A more detailed professional README
-✔ A GitHub banner image
-
-Just tell me!
+  
